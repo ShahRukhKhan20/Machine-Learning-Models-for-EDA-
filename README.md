@@ -39,9 +39,6 @@ The repository is designed as a learning portfolio demonstrating practical imple
 - Decision Tree Regressor
 - Random Forest Regressor
 
-*(Add any remaining models here to complete your list of 17.)*
-
----
 
 ## Technologies Used
 
